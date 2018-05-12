@@ -1,0 +1,30 @@
+_repo: Oriental-EncountersPalestine-and-Syria-1894-6_19378
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pickthall, Marmaduke William
+    birthdate: 1875
+    deathdate: 1936
+    gutenberg_agent_id: '7047'
+    url: http://www.gutenberg.org/2009/agents/7047
+    wikipedia: http://en.wikipedia.org/wiki/Marmaduke_Pickthall
+description: ''
+gutenberg_issued: '2006-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19378'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Palestine -- Description and travel'
+- !lcsh 'Syria -- Description and travel'
+- !lcc 'DS'
+title: 'Oriental Encounters
+
+  Palestine and Syria, 1894-6'
+url: http://www.gutenberg.org/ebooks/19378
